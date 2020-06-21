@@ -8,8 +8,7 @@
 <sub>*Data Enthusiast and Business Intelligence Specialist*</sub>
 
 Economista, especialista em Inteligência de Negócio, com mais de 6 anos de experiência em inteligência empresarial e competitiva. Ao passar pelas mais diversas áreas de negócio como comércio exterior, educação e finanças, descobri que minha verdadeira paixão é entregar soluções e respostas que justifiquem o lema de fazer melhor sempre.
-Profissional com os últimos dois anos dedicados à atuação em projetos de pesquisa qualitativa e quantitativa, desde elaboração de questionários até apresentação dos dados em ferramentas pertinentes ao cliente final. Experiência prévia dedicada a relatórios de BI e Pricing, com foco em conversão de leads e controle de indicadores de clientes internos.
-Facilidade de comunicação e relacionamento, adaptabilidade, senso crítico e gestão de projetos; além de ampla experiência em PowerPoint, Excel, Tableau e Cognos. 
+Entre projetos de pesquisa qualitativa e quantitativa, relatórios de BI e Pricing, vivência em captação e conversão de leads,o tratamento de dados sempre foi uma prerrogativa, hoje se tornou um grande interesse.
 
 **Background in:** Python, Machine Learning, Data Mining 
 
@@ -18,9 +17,11 @@ Facilidade de comunicação e relacionamento, adaptabilidade, senso crítico e g
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja os tutoriais publicados aqui:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Análise de Dados  - Airbnb Rio de Janeiro:** https://bit.ly/2Bn8E89
+* **Análise de Dados  - Airbnb New York:** Em breve!
+
 
 
 ---
