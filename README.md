@@ -20,7 +20,7 @@ Entre projetos de pesquisa qualitativa e quantitativa, relatórios de BI e Prici
 Veja os tutoriais publicados aqui:
 
 * **Análise de Dados  - Airbnb Rio de Janeiro:** https://bit.ly/2Bn8E89
-* **Análise de Dados  - Airbnb New York:** Em breve!
+* **Análise de Dados  - Airbnb New York:** https://bit.ly/2BxGoQ8
 
 
 
