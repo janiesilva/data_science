@@ -21,7 +21,7 @@ Veja os tutoriais publicados aqui:
 
 * **Análise de Dados  - Airbnb Rio de Janeiro:** https://bit.ly/2Bn8E89
 * **Análise de Dados  - Airbnb New York:** https://bit.ly/2BxGoQ8
-
+* **Segurança no estado do Rio de Janeiro:** https://bit.ly/3icESUq
 
 
 ---
